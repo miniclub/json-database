@@ -4,10 +4,10 @@ Class Data.Patient
 
 Property Name As %String;
 
-/// ZŠ
+/// éƒ½é“åºœçœŒã€ä½æ‰€
 Property Address As %String;
 
-/// “ú–{Œê
+/// é›»è©±ç•ªå·
 Property Phone As %String;
 
 }
