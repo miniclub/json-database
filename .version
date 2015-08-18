@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.intersys.eclipse.sync.library:AtelierProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.intersys.eclipse.sync.library="http:///com/intersys/eclipse/sync/library/model/sync.ecore" name="IDE">
+  <resourceList name="Data.Patient.cls" localFilePath="file:/C:/Users/minamoto/InterSystems/Atelier/workspace/IDE/Data.Patient.cls">
+    <version serverTimestamp="2015-08-12 14:09:51.622" lastUpdateTimestamp="1439356191695"/>
+  </resourceList>
+  <resourceList name="Sample.Patient.cls" localFilePath="file:/C:/Users/minamoto/InterSystems/Atelier/workspace/IDE/Sample.Patient.cls">
+    <version serverTimestamp="2015-08-12 15:29:03.920" lastUpdateTimestamp="1439360943936"/>
+  </resourceList>
+</com.intersys.eclipse.sync.library:AtelierProject>
